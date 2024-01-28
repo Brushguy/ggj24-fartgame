@@ -1,0 +1,1 @@
+instance_create_layer(x+8+16*player_start_pos_x, y+8+16*player_start_pos_y, "Player", oPlayerMapDot);
